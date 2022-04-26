@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/805031213583564800/968301834122981386/unknown.png" alt="Hi"/>
+<img src="https://nytsense.com/images/Clouds.png" alt="Hi"/>
 
 <!--
 **Nytsense/Nyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nytsense&theme=dark)
 
-<img src="https://cdn.discordapp.com/attachments/805031213583564800/968301906202071090/unknown.png" alt="Bye"/>
+<img src="https://nytsense.com/images/Clouds2.png" alt="Bye"/>
 
