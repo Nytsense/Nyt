@@ -9,7 +9,7 @@
 - <img src="https://visitor-badge.glitch.me/badge?page_id=Nytsense.visitor-badge" alt="visitor badge"/>
 
 
-![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qezc1hqre1o3j8whnq2162hjw&cover_image=true&theme=default)])
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qezc1hqre1o3j8whnq2162hjw&cover_image=true&theme=default)]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nytsense&show_icons=true&theme=dark)
 
